@@ -1,5 +1,5 @@
 <?php
-include "okcoin.php";
+include "class/okcoin.php";
 
 $partner = "";// your partner number here
 $secretKey = "";// your secret key here
