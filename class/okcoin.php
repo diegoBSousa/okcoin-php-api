@@ -4,7 +4,7 @@
 * e-mail: diego@diegosousa.com.br
 * Facebook: www.facebook.com/diego.brito.148553
 * Github:  github.com/vadinho
-* Pay Me a Beer:
+* Pay Me a Beer 付給我一個啤酒:
 * BTC : 1JkAmtB9cnW8oiGCKmmArk59jEsKhaxqQX
 * LTC : LVT3MdQEwJpdwfhvUvrudDWqzErZmfbmhg
 */
