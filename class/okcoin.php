@@ -196,7 +196,7 @@ class okcoin
      * POST https://www.okcoin.cn/api/getorder.do
      * 获取用户挂单 - Get User Pending Order
      * @param int $order_id
-     * order_id: 必选 Required 订单号 order id
+     * order_id: 必选 Required 订单号 order id: (-1) lists all pending orders 订单号 (-1查询全部未成交挂单，否则查询相应单号的挂单)
      * @param string $symbol
      * symbol: 必选 Required 当前货币兑 pair List: (btc_cny,ltc_cny)
      * @return array JSON results
